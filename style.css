@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    display:flex;
+    background:#111111;
+}
+
+#header {
+    display:flex;
+background: rgb(176, 18, 7); 
+justify-content:center;
+align-items:center;
+padding-right:25px;
+padding-left:25px;
+}
+
+#titleCard {
+    color:white;
+    text-shadow: 2px 2px black;    
+}
+
+.details {
+    display:flex;
+list-style:none;
+gap:8px;
+}
+
+a {
+color:white;
+text-decoration:none;
+
+
+
+}
+
+
+
+
+
